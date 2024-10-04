@@ -1,0 +1,23 @@
+.drawer a{
+   display: inline-block;
+   width: 100%;
+   text-decoration: none;
+   color: inherit; 
+}
+select{
+   width: 100%;
+   padding: 0.9rem 1rem;
+   font-size: 1.3rem;
+   border-radius: 5px;
+}
+textarea{
+   padding: 0.9rem 1rem;
+   width: 100%;
+   outline: none;
+   border-radius: 5px;
+
+}
+textarea:focus{
+   border: 2px solid blue;
+
+}
